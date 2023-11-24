@@ -1,0 +1,16 @@
+1b5ec2549554f360fefa0d485422ee72 *DESCRIPTION
+aea27661afa854549344ed4b10556c71 *LICENSE
+ed0ad0e1fc71ca833a85a7ab6867fa1e *NAMESPACE
+8cb99bc95f11dc48f1eb4922c3d8736c *NEWS.md
+48bdcb557dd3e2ec9a6e45e47582e3dc *R/casewhen.R
+c5669142954d4e67646f15b8c8a4a3eb *R/inlist.R
+a0af851c0b1d493d59187b86add5620c *R/updatetable.R
+ba1cfc6f8785f62858f31a8dd2be1d52 *build/vignette.rds
+2401a8742c914bb1c2b81db590a01eb2 *inst/doc/introduction.R
+530a7b093790041c7dd150a32ab836a5 *inst/doc/introduction.Rmd
+aadab171e29ac893b65a383870bf6e6a *inst/doc/introduction.html
+52ca850b0be205b46e931a992ef8f3a3 *inst/extdata/sample.csv
+34f4d3fb535ae0041354be7c361ec840 *man/casewhen.Rd
+344ec91a44fd25b49d920648a87fbe91 *man/inlist.Rd
+81e75d84d6acfb1e32b01c1cef0e4d48 *man/updatetable.Rd
+530a7b093790041c7dd150a32ab836a5 *vignettes/introduction.Rmd
